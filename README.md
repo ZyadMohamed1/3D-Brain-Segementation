@@ -19,10 +19,10 @@
 ## Data Visualization
 
 - Different Segmentations
-![Seg](visualization/output)
+![Seg](visualization/output.png)
 
 - Testing
 
-![all](visualization/output1)
+![all](visualization/output1.png)
 
-![test](visualization/output2)
+![test](visualization/output2.png)
